@@ -4,14 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71313&width=435&lines=Hi+there+my+name+is+Leandro+!+!+!" width="60%" alt="Hi I am Leandro" />
 </p>
-
-<!-- Sección About Me con imagen y texto en columnas -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="250px" alt="Coder" />
-    </td>
-    <td style="padding-left: 20px;">
+<td style="padding-left: 20px;">
       <p><strong>👋 ¡Hola! Soy Leandro</strong><br><br>
         Un eterno aprendiz apasionado por el mundo de la informática 💻.<br>
         Actualmente soy <strong>Analista de Sistemas</strong>, me dedico al <strong>Desarrollo Web</strong> como freelance y estoy dando mis primeros pasos en el fascinante universo de la <strong>Ciberseguridad</strong> 🔐.<br><br>
@@ -19,18 +12,21 @@
         Siempre busco nuevos desafíos que me impulsen a seguir creciendo profesionalmente.<br><br>
         💡 Mi lema: *"Hoy mejor que ayer, mañana mejor que hoy."*
       </p>
+</td>
+<!-- Sección About Me con imagen y texto en columnas -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="250px" alt="Coder" />
     </td>
+    <a href="https://github.com/gutierrezle">
+    <img src="https://github-readme-stats.vercel.app/api?username=gutierrezle&hide_border=true&show_icons=true" alt="Leandro's GitHub Stats" />
+    </a>
   </tr>
 </table>
 
 <!-- GitHub Stats -->
 <br>
-<p align="center">
-  <a href="https://github.com/gutierrezle">
-    <img src="https://github-readme-stats.vercel.app/api?username=gutierrezle&hide_border=true&show_icons=true" alt="Leandro's GitHub Stats" />
-  </a>
-</p>
-
 <!-- Datos adicionales sobre mí -->
 <h3 align="center">🚀 Un poco más sobre mí</h3>
 <p align="center">
