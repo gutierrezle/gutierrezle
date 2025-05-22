@@ -30,5 +30,4 @@
   🧠 Siempre estoy estudiando algo nuevo<br>
   🛠️ Me gusta combinar creatividad con lógica<br>
   💬 Valoro mucho compartir lo que aprendo<br>
-  🌱 Mi filosofía: "Hoy mejor que ayer, mañana mejor que hoy"
 </p>
