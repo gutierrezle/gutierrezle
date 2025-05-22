@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="3000px" alt="Coder" />
+      <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="2000px" alt="Coder" />
     </td>
     <td>
       <p><strong>Hola! Soy Leandro 👋 </strong>
@@ -21,10 +21,14 @@
     </td>
   </tr>
 </table>
-
-
 <p  align="center">
   <a href="https://github.com/gutierrezle">
     <img src="https://github-readme-stats.vercel.app/api?username=gutierrezle&hide_border=true&show_icons=true" alt="Leandro's GitHub Stats">
   </a>
 </p>
+
+🚀 Un poco más sobre mí:
+- 🧠 Siempre estoy estudiando algo nuevo
+- 🛠️ Me gusta combinar creatividad con lógica
+- 💬 Valoro mucho compartir lo que aprendo
+- 🌱 Mi filosofía: "Hoy mejor que ayer, mañana mejor que hoy"
