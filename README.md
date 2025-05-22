@@ -25,10 +25,11 @@
   <a href="https://github.com/gutierrezle">
     <img src="https://github-readme-stats.vercel.app/api?username=gutierrezle&hide_border=true&show_icons=true" alt="Leandro's GitHub Stats">
   </a>
-</p>
-
-🚀 Un poco más sobre mí:
+  🚀 Un poco más sobre mí:
 - 🧠 Siempre estoy estudiando algo nuevo
 - 🛠️ Me gusta combinar creatividad con lógica
 - 💬 Valoro mucho compartir lo que aprendo
 - 🌱 Mi filosofía: "Hoy mejor que ayer, mañana mejor que hoy"
+
+</p>
+
